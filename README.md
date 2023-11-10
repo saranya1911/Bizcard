@@ -5,15 +5,15 @@
 The BizCard OCR (Optical Character Recognition) project is designed to extract and manage business card information using image processing techniques. It utilizes the Streamlit framework for creating a user interface and integrates with an OCR library (EasyOCR) for text extraction. The extracted information is stored and managed in a MySQL database.
 
 # **Features**
-        **Extract Information:** Upload an image of a business card to extract relevant information such as name, designation, contact details, email, company, website, city, state, pincode, and image.
+        Extract Information: Upload an image of a business card to extract relevant information such as name, designation, contact details, email, company, website, city, state, pincode, and image.
 
-        **Create Business Card:** Manually enter your business card details and upload an image to create a new entry in the database.
+        Create Business Card: Manually enter your business card details and upload an image to create a new entry in the database.
 
-        **Read Database Entries:** View a tabular representation of all stored business card entries.
+        Read Database Entries: View a tabular representation of all stored business card entries.
 
-        **Update Information:** Select a business card entry to update and modify its details.
+        Update Information: Select a business card entry to update and modify its details.
 
-        **Delete Entries:** Remove a business card entry from the database.
+        Delete Entries: Remove a business card entry from the database.
 
 # **Technologies Used**
 Streamlit: Web framework for creating interactive and user-friendly applications.
